@@ -13,3 +13,41 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+   text-align: center;
+ }
+
+ .box {
+   border-left: solid 4px rgb(221, 221, 221);
+   padding: 16px;
+   margin: 16px;
+   text-align: left;
+ }
+
+ .pink{
+   background-color: pink;
+ }
+
+ input {
+   border-radius: 5px;
+   border: solid 1px gray;
+   background-color: pink;
+ }
+
+ .button {
+   background-color: pink;
+ }
+
+ .button2 {
+   border-radius: 5px;
+   background-color: pink;
+   width: 200px;
+   margin: 0 auto;
+   padding: 10px;
+   text-decoration: none;
+ }
+
+ h1 {
+   color: pink;
+ }
